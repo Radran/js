@@ -1,0 +1,9 @@
+document.body.innerHTML = `o seu nome é: ${nome} <br/>`
+document.body.innerHTML+= `seu nome tem ${nome.lenght} <br/>`
+document.body.innerHTML +=`a segunda letra do seu nome é: <br/>`
+document.body.innerHTML +=`qual o primeiro indice da letra e no seu nome <br/>`       
+document.body.innerHTML +=`qual o ultimo indice da letra e no seu nome <br/>`
+document.body.innerHTML +=`as ultimas 3 letras do seu nome são: <br/>`
+document.body.innerHTML +=`as palavras do seu nome são: <br/>`
+document.body.innerHTML +=`seu nome com letras maiúsculas: <br/>`
+document.body.innerHTML +=`seu nome em letras minúsculas: <br/>`
