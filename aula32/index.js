@@ -14,6 +14,6 @@ const afc = [
     ['Jaguars', 'Texans', 'Colts', 'Titans']
 ];
 [afcEast, afcWest, afcNorth, afcSouth] = afc;
-console.log(afcEast, afcWest, afcNorth, afcSouth);
+console.log(afcEast,afcWest,afcNorth,afcSouth);
 
 
