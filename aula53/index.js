@@ -32,3 +32,5 @@ console.log(p1.imc)
 p1.nomeCompleto='Lebron Raymone James'
 console.log(p1.nomeCompleto) 
 console.log(p1.fala())
+const p2 = criapessoa('joana', 'martins', 1.83, 72)
+console.log(p2)
