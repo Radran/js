@@ -5,5 +5,5 @@
 //const novo = nomes.slice(1, 3)
 //console.log(novo)
 const nomes = ['felipe', 'nery']
-const nome = nomes.join( ' ')
+const nome = nomes.join(' ')
 console.log(nome)
